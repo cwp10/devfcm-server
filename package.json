@@ -1,0 +1,22 @@
+{
+  "name": "devfcm-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwp10/devfcm-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwp10/devfcm-server/issues"
+  },
+  "homepage": "https://github.com/cwp10/devfcm-server#readme",
+  "dependencies": {
+    "fcm-node": "^1.3.0"
+  }
+}
